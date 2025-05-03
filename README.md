@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitm03
-- 👀 I’m interested in Automation testing using Selenium Maven and TestNG
-- 🌱 I’m currently learning Selenium
+- 👀 I’m interested in Automation testing using playwright cucu,ber
+- 🌱 I’m currently learning Playwright with cucumber
 - 💞️ I’m looking to collaborate on Automation tools and desiging frameworks
 - 📫 Reache me on mrohit499@gmail.com
 
