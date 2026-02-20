@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitm03
-- 👀 I’m interested in Automation testing using playwright cucu,ber
-- 🌱 I’m currently learning Playwright with cucumber
+Senior Software Test Engineer
+LLM Evaluation & Testing Enthusiast
 - 💞️ I’m looking to collaborate on Automation tools and desiging frameworks
 - 📫 Reache me on mrohit499@gmail.com
 
